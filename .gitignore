@@ -1,0 +1,5 @@
+stories/
+__pycache__/
+*.wav
+*.pyc
+.venv/
