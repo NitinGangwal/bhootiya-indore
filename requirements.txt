@@ -1,0 +1,5 @@
+streamlit
+faster-whisper
+requests
+imageio-ffmpeg
+numpy
